@@ -5,6 +5,8 @@ hypixel skyblock
  
  Hypixel skyblock is a gamemode in the popular minecraft server Hypixel. In skyblock, the market is one of the most important thing in the game. The market helps player progress and obtain items by using money. However, in the present, the item prices have been inflated, making items much more expensive.
  
+ ![alt text](5cfe76f01f26c.new game Skyblock.png)
+ 
  **HOW IT HAPPENED**
 
 To understand how it all happened, we need to first take a look at the market. there are 3 markets in skyblock: NPC, bazaar, and auction house. Both bazaar and the auction house is a player based market, which means the money circulates between players. However, NPC is not player based. Players can sell items to the npc for money, which is making the game generate money out of thin air. And with more money in the game, players are willing to afford to buy more expensive items, thus increases the price of the items in the player based market.  
