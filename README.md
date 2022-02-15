@@ -1,2 +1,3 @@
 # price-inflation-in-skyblock
-minecraft sgiejwrgr
+hypixel skyblock
+============================================
