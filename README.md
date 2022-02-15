@@ -6,8 +6,7 @@ hypixel skyblock
  Hypixel skyblock is a gamemode in the popular minecraft server Hypixel. In skyblock, the market is one of the most important thing in the game. The market helps player progress and obtain items by using money. However, in the present, the item prices have been inflated, making items much more expensive.
  
  ![skyblock](![5cfe76f01f26c new game Skyblock](https://user-images.githubusercontent.com/99769923/154166147-65d73342-859a-42c8-b66d-24d2add2e69c.png)
-)
-w game Skyblock.png)
+
  
  **HOW IT HAPPENED**
 
